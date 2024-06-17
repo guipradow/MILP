@@ -10,6 +10,7 @@ python = "^3.10"
 pyomo = "^6.7.3"
 gurobipy = "^11.0.2"
 ortools = "^9.10.4067"
+pyscipopt = "^5.0.0"
 
 
 [build-system]
